@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # ☘️ About Me:
-$\color{red}{\text{A 2nd year Computer Science student at Newcastle University <br>with experience in:<br>♨️ Java <br>©️ C<br>🐍 Python<br>💽 Bash<br>And<br>🗄️MongoDB.<br><br>I am currently looking for a internship}}$
+A 2nd year Computer Science student at Newcastle University <br>with experience in:<br>♨️ Java <br>©️ C<br>🐍 Python<br>💽 Bash<br>And<br>🗄️MongoDB.<br><br>I am currently looking for a internship
 
 
 ## 🌐 Socials:
