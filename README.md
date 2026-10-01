@@ -32,7 +32,4 @@ A 2nd year Computer Science student at Newcastle University <br>with experience 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CodeWithLizzie&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
